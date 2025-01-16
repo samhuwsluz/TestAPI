@@ -1,0 +1,4 @@
+name: TestAPI
+version: '1.0'
+main: ch.ksrminecraft.testAPI.TestAPI
+api-version: '1.21'
